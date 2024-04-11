@@ -1,0 +1,10 @@
+.contenedor-mapa {
+    display: flex;
+    justify-content: center;
+
+    iframe {
+        margin: 5px 30px;
+        width: 1400px;
+        height: 400px;
+    }
+}
